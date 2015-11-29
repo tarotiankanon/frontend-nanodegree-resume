@@ -158,6 +158,8 @@ ul {
 
 img {
   padding: 10px;
+  /*  override  */
+  width: 400px;
 }
 
 span {
